@@ -99,7 +99,7 @@ Close the HTML Structure.
 </html>
 ```
 
-##OUTPUT :
+## OUTPUT :
 
 #(i)Default-screen
 
